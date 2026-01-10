@@ -11,7 +11,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Dhirendra Vishwakarma</h1>
-  <p><strong>🎯 Front-end Developer |  Full-Stack Development | Tech Enthusiast | CSE Student | AI </strong></p>
+  <p><strong>🎯Full-Stack Development | MERN stack | Tech Enthusiast | CSE Student | AI </strong></p>
   <p> I focus on building clean, responsive, and user-friendly web applications using modern tools. Currently strengthening my frontend fundamentals while expanding into full-stack development.</p>
 </div>
 
@@ -51,22 +51,9 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    width="600"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhirendra22vish&theme=github"
-  />
-</p>
 
-<p align="center">
-  <img 
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=dhirendra22vish&show_icons=true&hide_border=true"
-  />
-  <img 
-    width="305"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendra22vish&layout=compact&hide_border=true"
-  />
+
+
 </p>
 
 <p align="center">
@@ -99,9 +86,5 @@
 <br/>
 
 <!-- ================= FOOTER ================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=E53935&height=60&section=footer&text=Stay%20Consistent.&fontSize=16&fontColor=ffffff"
-  />
-</p>
+
 
