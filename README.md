@@ -15,16 +15,6 @@
   <p> I focus on building clean, responsive, and user-friendly web applications using modern tools. Currently strengthening my frontend fundamentals while expanding into full-stack development.</p>
 </div>
 
-<!-- ================= VISUAL ================= -->
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
-    width="420" 
-    alt="coding animation"
-  />
-</p>
-
-<br/>
 <h2 align="center">🌍 About Me</h2>
 
 - 🚀 **Aspiring Software Developer with a strong focus on building practical, scalable solutions**
@@ -65,12 +55,7 @@
 
 <br/>
 
-<!-- ================= STREAK ================= -->
-<h2 align="center">Contribution Streak</h2>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhirendra22vish&theme=default&hide_border=false)" />
-</p>
 
 
 <h2 align="center">💼 Skills & Technologies</h2>
